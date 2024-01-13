@@ -1,0 +1,5 @@
+PersonID int,
+LastName varchar255,
+FirstName varchar255,
+Address varchar255,
+City varchar255;
